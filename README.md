@@ -2,11 +2,13 @@
 
 I am an 11th grader in Dallas, Texas interested in cybersecurity, networking, and artificial intelligence. I am training to be a certified CompTIA Security+ professional and gaining CCNA and GIAC Foundational Cybersecurity Technologies (GFACT) certification.
 
+## 🔗 Links
+
 [![Linkedin Badge](https://img.shields.io/badge/-apillai2701-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apillai2701/)](https://www.linkedin.com/in/apillai2701/)
 [![Instagram Badge](https://img.shields.io/badge/-apillai2701-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/apillai2701//)](https://www.instagram.com/apillai2701/)
 [![Gmail Badge](https://img.shields.io/badge/-aryanpillai2701@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryanpillai2701@gmail.com)](mailto:aryanpillai2701@gmail.com)
 
-## ⚡ Technologies
+## 🤖 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -17,5 +19,3 @@ I am an 11th grader in Dallas, Texas interested in cybersecurity, networking, an
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AryanPillai2007&count_private=true&show_icons=true&include_all_commits=true)
