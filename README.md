@@ -1,6 +1,6 @@
 ## Hey! My Name is Aryan Pillai! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am an 11th grader in Dallas, Texas interested in cybersecurity, networking, and artificial intelligence. I am training to be a certified CompTIA Security+ professional and gaining CCNA and GIAC Foundational Cybersecurity Technologies (GFACT) certification.
+I am a 12th grader in Dallas, Texas interested in Computer Engineering, Cybersecurity Artificial Intelligence.
 
 ## 🔗  Links
 
