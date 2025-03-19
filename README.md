@@ -1,6 +1,6 @@
 ## Hey! My Name is Aryan Pillai! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am a 12th grader in Dallas, Texas interested in Computer Engineering, Cybersecurity Artificial Intelligence.
+I am a 12th grader in Dallas, Texas interested in Computer Engineering, Cybersecurity, and Artificial Intelligence.
 
 ## 🔗  Links
 
