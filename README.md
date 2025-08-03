@@ -5,7 +5,6 @@ I am currently an incoming student at Virginia Tech, majoring in Computer Engine
 ## 🔗  Links
 
 [![Linkedin Badge](https://img.shields.io/badge/-apillai2701-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apillai2701/)](https://www.linkedin.com/in/apillai2701/)
-[![Instagram Badge](https://img.shields.io/badge/-apillai2701-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/apillai2701//)](https://www.instagram.com/apillai2701/)
 [![Gmail Badge](https://img.shields.io/badge/-aryanpillai2701@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryanpillai2701@gmail.com)](mailto:aryanpillai2701@gmail.com)
 
 ## 🤖  Technologies
