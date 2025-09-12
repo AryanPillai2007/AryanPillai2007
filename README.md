@@ -1,6 +1,6 @@
 ## Hey! My Name is Aryan Pillai! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am currently an incoming student at Virginia Tech, majoring in Computer Engineering, in Dallas, Texas.
+I am currently a student at Virginia Tech, majoring in Computer Engineering.
 
 ## 🔗  Links
 
